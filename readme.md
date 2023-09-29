@@ -1,5 +1,5 @@
 #Gardens Booking WebApp
-Designing a web project for making reservations and bookings at Legon Botanical Gardens
+Designing a web project for making reservations and bookings using Legon Botanical Gardens as reference
 
 - Built in Go 1.21.1
 - Uses [chi router](github.com/go-chi/chi)
